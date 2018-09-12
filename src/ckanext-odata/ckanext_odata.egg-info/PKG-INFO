@@ -1,0 +1,11 @@
+Metadata-Version: 1.0
+Name: ckanext-odata
+Version: 0.1
+Summary: OData Interface for CKAN
+Home-page: http://github.com/whythawk/ckanext-odata
+Author: Toby Dacre
+Author-email: tdacre@whythawk.com
+License: AGPL3.0
+Description: 
+            
+Platform: UNKNOWN

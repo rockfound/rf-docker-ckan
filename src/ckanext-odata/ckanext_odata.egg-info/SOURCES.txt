@@ -1,0 +1,14 @@
+README.md
+setup.py
+ckanext/__init__.py
+ckanext/odata/__init__.py
+ckanext/odata/actions.py
+ckanext/odata/controller.py
+ckanext/odata/plugin.py
+ckanext_odata.egg-info/PKG-INFO
+ckanext_odata.egg-info/SOURCES.txt
+ckanext_odata.egg-info/dependency_links.txt
+ckanext_odata.egg-info/entry_points.txt
+ckanext_odata.egg-info/namespace_packages.txt
+ckanext_odata.egg-info/not-zip-safe
+ckanext_odata.egg-info/top_level.txt

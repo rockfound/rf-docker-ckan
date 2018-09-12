@@ -1,0 +1,14 @@
+README.md
+setup.py
+ckanext/__init__.py
+ckanext/rf/__init__.py
+ckanext/rf/actions.py
+ckanext/rf/controller.py
+ckanext/rf/plugin.py
+ckanext_rf.egg-info/PKG-INFO
+ckanext_rf.egg-info/SOURCES.txt
+ckanext_rf.egg-info/dependency_links.txt
+ckanext_rf.egg-info/entry_points.txt
+ckanext_rf.egg-info/namespace_packages.txt
+ckanext_rf.egg-info/not-zip-safe
+ckanext_rf.egg-info/top_level.txt

@@ -1,0 +1,11 @@
+Metadata-Version: 1.0
+Name: ckanext-rf
+Version: 0.1
+Summary: RF Interface for CKAN
+Home-page: http://github.com/rockfound/ckanext-rf
+Author: C. List
+Author-email: cglist@cglist.net
+License: AGPL3.0
+Description: 
+            
+Platform: UNKNOWN

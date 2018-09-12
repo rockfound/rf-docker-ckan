@@ -1,0 +1,10 @@
+{% ckan_extends %}
+
+{% block header_logo %} {% if g.site_logo %}
+<a class="logo" href="{{ h.url_for('home.index') }}"><img style="width:200px;height:50px" src="/logo.svg" title="{{ g.site_title }}" height="50" /></a>
+      {% else %}
+<h1>
+    <a href="{{ h.url_for('home.index') }}">{{ g.site_title }}</a>
+</h1>
+      {% if g.site_description %}
+<h2>{{ g.site_description }}</h2>{% endif %} {% endif %} {% endblock %}

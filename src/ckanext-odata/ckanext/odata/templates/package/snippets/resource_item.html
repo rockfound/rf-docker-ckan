@@ -1,0 +1,8 @@
+{% ckan_extends %}
+{% block resource_item_explore_links %}
+{# Insert the contents of the original resource_item_explore_links block: (this is a list of <li> elemenets )#}
+ {{ super() }}
+ <a href="http://www.odata.org" target="_blank"><img src="http://www.odata.org/assets/ODataLogo-24.png"></a>OData
+ <code><a href="{{ h.ckanext_odata_link(res.id) }}" target="_blank">{{ h.ckanext_odata_link(res.id) }}</a></code>
+
+{% endblock %}

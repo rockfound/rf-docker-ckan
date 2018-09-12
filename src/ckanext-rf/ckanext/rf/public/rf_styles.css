@@ -1,0 +1,39 @@
+.account-masthead, .masthead {
+    background-color: #4B4F54;
+    color: #efefef;
+}
+.site-footer {
+    background-color: #4B4F54;
+    color: #efefef;
+    background-image:none;
+}
+body {
+    background: none;
+    font-family: Calibri, 'Segoe UI', 'Helvetica Neue',Helvetica,Arial,sans-serif;
+}
+.masthead .navigation .nav-pills {
+    font-size:16px
+}
+    .masthead .navigation .nav-pills li a:hover, .masthead .navigation .nav-pills li.active a {
+        background-color: #bdbfc4;
+        color: #4B4F54;
+    }
+.hero {
+    background: none
+}
+[role=main], .main {
+    background:none;
+}
+.wrapper, .box {
+    background: none;
+    box-shadow: none;
+    -webkit-box-shadow: none;
+}
+.homepage .module-search .module-content {
+    background-color: #6f8d92;
+}
+
+.search-form .search-input.search-giant button {
+    margin-top: 0;
+    top: 12px;
+}
